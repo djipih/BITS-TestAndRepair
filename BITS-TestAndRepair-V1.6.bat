@@ -12,15 +12,7 @@ setlocal EnableDelayedExpansion
 :::                                                                 |___/ 
 ::
 set "_DOWNLOAD_DIR=%USERPROFILE%\Downloads"
-::
 set _JOB_NAME=BITS-TESTS
-::
-:: Exemple de test de telechargement avec authentification
-:: https://install.atlanticlog.org/install/script/sh/arbo_client/installWindows/viaPowerShell/installOnlyCygwinViaPowerShell.bat
-:: user = AtlanticLog / pwd = atlog17
-::
-::##########################################################
-
 
 ::##########################################################
 set _VER=1.6
